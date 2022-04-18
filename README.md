@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jorgeborges143
+- 👋 Hi there! My name is Jorge, welcome to my github!
 - 👀 I’m interested in cybersecurity analisys and pentesting, looking forward to learn more about both
 - 🌱 I’m currently searching and studying in order to take CYSA+ Certification
 - 💞️ I’m looking to collaborate on any project that may call my attention
